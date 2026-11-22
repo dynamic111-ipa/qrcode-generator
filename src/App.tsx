@@ -5,7 +5,7 @@ import { AppState } from './types';
 import { Trash2 } from 'lucide-react';
 
 const INITIAL_STATE: AppState = {
-  link: 'https://zaidev-qrcode.netlify.app/',
+  link: '',
   fgColor: '#111111',
   bgColor: '#ffffff',
   cornerSquareColor: '#111111',
